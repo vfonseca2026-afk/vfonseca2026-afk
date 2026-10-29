@@ -1,6 +1,6 @@
 <div style="padding: 10px;">
         <img
-          src="https://media.tenor.com/oS7G0nLarO4AAAAi/zelda-link.gif"
+          src="https://media1.tenor.com/m/4dezf6tJGrsAAAAC/clippy-microsoft.gif"
           alt="GIF animado"
         />
 </div>
