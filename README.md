@@ -7,11 +7,6 @@
           alt="GIF animado"
         />
       </td>
-      <td style="vertical-align: top;">
-        <samp>
-          w/e
-        </samp>
-      </td>
     </tr>
   </table>
 </div>
