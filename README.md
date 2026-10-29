@@ -10,7 +10,7 @@
     align="top"
   />
   <img
-    src="https://media.tenor.com/LgLDp057MgIAAAAi/old-2010.gif"
+    src="https://i.postimg.cc/15B8MGDz/windows-C-AOL-red.gif"
     alt="GIF animado"
     width="400"
     align="top"
