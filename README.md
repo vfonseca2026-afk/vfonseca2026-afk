@@ -3,7 +3,7 @@
     <tr>
       <td style="padding-right: 20px; vertical-align: top;">
         <img
-          src="https://tenor.com/es-419/view/ocarina-of-time-title-screen-gif-25346195"
+          src="https://tenor.com/bSvRL.gif"
           alt="GIF animado"
         />
       </td>
