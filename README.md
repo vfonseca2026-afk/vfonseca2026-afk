@@ -1,4 +1,4 @@
-<div style="padding: 20px;">
+<div style="padding: 10px;">
   <table style="border-collapse: collapse;">    
     <tr>
       <td style="padding-right: 10px; vertical-align: top;">
